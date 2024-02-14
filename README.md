@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # SBA-320.10
 # Anime List Project
-
+-[Netlify deployment](https://jovial-malasada-3c3a74.netlify.app/)
 ## Overview
 
 Anime List is a React-based web application that allows users to browse, search, and view details about their favorite anime characters. Leveraging Redux for state management, this project provides a seamless user experience by fetching data from a public anime API and presenting it in an engaging and interactive interface.
